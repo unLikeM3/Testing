@@ -1,0 +1,14 @@
+body{
+	background: url('../img/bg.jpg');
+}
+.centrera{
+	text-align: center;
+}
+.padded{
+	padding: 5px;
+}
+.bright{
+	background-color: #aaa;
+	color:#000;
+	border-radius: 5px;
+}
